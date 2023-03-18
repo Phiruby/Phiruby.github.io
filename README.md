@@ -7,4 +7,4 @@ global audience distribution.  This is a way to interact with the map and click 
 
 The full recommendations and actions took to improve media engagement is not a part of this repository. This presentation is not included in this repository; however, the recommendations that were provided using data analysis certainly helped increase followership by 20%.
 
-To view the map, visit [this page](phiruby.github.io)
+To view the map, visit [this page](https://phiruby.github.io/)
